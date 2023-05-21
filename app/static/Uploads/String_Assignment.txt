@@ -1,0 +1,5 @@
+Length of string 
+concatination of string 
+Lower case and upper case 
+Slicing of string 
+Equal strings or not
